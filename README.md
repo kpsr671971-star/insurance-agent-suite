@@ -1,50 +1,26 @@
-\# Insurance Proposal Generator (FastAPI Project)
+🔥🔥Insurance Agent Suite – Automated Insurance Proposal Generator🔥🔥
+😎😊Overview
 
+Insurance Agent Suite automates professional insurance proposal creation. It uses AI to generate executive summaries and recommended policies, then outputs polished PDFs ready for clients.
 
+Saves agents time, reduces errors, and ensures consistent, professional proposals.
 
-\## ⭐ Overview
+👌Features
 
-This project is an end-to-end Insurance Proposal Automation System built using \*\*FastAPI\*\*.  
+1.AI Proposal Generation: Creates executive summaries and best policy recommendations.
 
-It extracts client information, performs basic analysis, generates a proposal using AI logic, and produces a final professional \*\*PDF report\*\*.
+2.PDF Reports: Clean, client-ready PDFs with client info, best option, and summary.
 
+3.FastAPI Backend: JSON input → downloadable PDF output, asynchronous for speed.
 
+4.Extensible: Add plans, templates, or branding easily.
 
-The system exposes \*\*three API endpoints\*\*:
+👍Tech Stack
 
-1\. `/onboard` – Extract basic details from an uploaded file  
+1.Python 3.12
 
-2\. `/proposal` – Generate proposal text + PDF  
+2.FastAPI
 
-3\. `/full-process` – End-to-end automation (upload file → final PDF)
+3.FPDF
 
-
-
----
-
-
-
-\## 🚀 Features
-
-\- Upload any file (PDF, text, docx) and extract raw content  
-
-\- Auto-generate proposal summary \& recommended plan  
-
-\- Create downloadable PDF proposals  
-
-\- Fully async FastAPI backend  
-
-\- Clean, structured APIs visible via Swagger UI  
-
-\- Works locally using `uvicorn`  
-
-
-
----
-
-
-
-\## 📁 Project Structure
-
-
-
+4.Asynchronous AI integration
