@@ -1,1 +1,8 @@
-{"detail":[{"type":"json_invalid","loc":["body",6],"msg":"JSON decode error","input":{},"ctx":{"error":"Expecting property name enclosed in double quotes"}}]}
+Insurance Proposal Report
+Client Name: Raji
+Best Option Details:
+plan_name: Term Shield
+premium: 2500/month
+coverage: 10L
+Proposal Summary:
+This proposal offers a comprehensive term protection plan suitable for your age and risk profile.
