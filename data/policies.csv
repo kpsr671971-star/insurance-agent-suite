@@ -1,0 +1,11 @@
+id,name,sum_insured,type,term,notes
+P001,Family Life Protect,500000,Life,20,"Basic life cover"
+P002,Secure Life Plus,1000000,Life,25,"Includes accidental rider"
+P003,Income Protector,300000,Income,10,"Monthly income replacement"
+P004,Health Essential,200000,Health,1,"Individual health cover"
+P005,Senior Care Plan,400000,Life,15,"For ages 55-70"
+P006,Business Shield,2000000,Group,5,"For small business owners"
+P007,CriticalCare,1000000,Critical Illness,10,"Pays on diagnosis"
+P008,Accident Protect,500000,Accident,5,"High accidental coverage"
+P009,Child Future Saver,300000,Savings,18,"Education focused"
+P010,Retirement Annuity,1500000,Annuity,20,"Guaranteed payouts"
